@@ -1,17 +1,17 @@
-# vCard - Personal portfolio
+# Personal Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+![GitHub repo size](https://img.shields.io/github/repo-size/vparra505/Personal-Website)
+![GitHub stars](https://img.shields.io/github/stars/vparra505/Personal-Website?style=social)
+![GitHub forks](https://img.shields.io/github/forks/vparra505/Personal-Website?style=social)
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/vparra505?style=social)](https://twitter.com/intent/follow?screen_name=vparra505)
+[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)  -->
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+This is a responsive website template from [codewithsadee](https://youtu.be/SoxmIlgf2zM) that I have customized, upgraded, and made my own. **Upgraded features include a different color scheme, light/dark mode, and a views counter.**
 
-## Demo
+## Original Demo
 
 ![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+<!-- ![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")  -->
 
 ## Prerequisites
 
@@ -19,25 +19,25 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installing vCard
+## Install Template
 
-To install **vCard**, follow these steps:
+To install this upgraded template, follow these steps:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+sudo git clone https://github.com/vparra505/Personal-Website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+git clone https://github.com/vparra505/Personal-Website.git
 ```
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact me you can reach me at vparra2001@gmail.com.
 
 ## License
 

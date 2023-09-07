@@ -6,7 +6,7 @@
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/vparra505?style=social)](https://twitter.com/intent/follow?screen_name=vparra505)
 [![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)  -->
 
-This is a responsive website template from [codewithsadee](https://youtu.be/SoxmIlgf2zM) that I have customized, upgraded, and made my own. **Upgraded features include a different color scheme, light/dark mode, and a views counter.**
+This is a responsive website template from [codewithsadee](https://youtu.be/SoxmIlgf2zM) that I have customized, upgraded, and made my own. <!--**Upgraded features include a different color scheme, light/dark mode, and a views counter.**-->
 
 ## Original Demo
 
